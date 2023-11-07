@@ -451,7 +451,7 @@ a{
         color:#fff;
         font-weight:700;
         text-transform:uppercase;
-        background-color:#0f33ff;
+        background-color:#ff0f6f;
         border:none;opacity:0;
         visibility:hidden;
         -webkit-transition:opacity .4s ease-in-out,visibility 0s .4s;
@@ -616,7 +616,7 @@ a{
         left:23px;
         right:0;
         height:100%;
-        background-color:#0f33ff;
+        background-color:#ff0f6f;
         z-index:-1;
         -webkit-transition:left .2s ease-in-out;
         transition:left .2s ease-in-out
@@ -634,6 +634,7 @@ a{
         fill:#fff
     }
     .intro--banner img{
+        width:430px;
         position:absolute;
         bottom:21px;
         right:-12px
