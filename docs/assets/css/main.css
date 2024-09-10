@@ -193,7 +193,8 @@ a{
         background:transparent
     }
     body{
-        -webkit-tap-highlight-color:#FFF498
+        /*-webkit-tap-highlight-color:#FFF498*/
+        -webkit-tap-highlight-color:transparent
     }
     body{
         background-color:#0c0c0c;
