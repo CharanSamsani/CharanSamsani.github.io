@@ -28,8 +28,8 @@
 }
 @font-face {
     font-family: 'Gobold';
-    src: url("fonts/Gobold.eot");
-    src: local("☺"),url("fonts/Gobold.woff2") format("woff2"),url("fonts/Gobold.woff") format("woff"),url("fonts/Gobold.ttf") format("truetype"),url("fonts/Gobold.svg#Gobold") format("svg");
+    src: url("fonts/Gobold Regular.otf");
+    src: local("☺"),url("fonts/Gobold.woff2") format("woff2"),url("fonts/Gobold Regular.woff") format("woff"),url("fonts/Gobold.ttf") format("truetype"),url("fonts/Gobold.svg#Gobold") format("svg");
     font-weight: normal;
     font-style: normal
 }
